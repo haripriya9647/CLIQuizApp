@@ -153,7 +153,7 @@ function finalcheck()
 {
   if (score==8)
   {
-    console.log(chalk.bgBlue("Congratulation!! You are highest scorer.Send me a screenshot so that I can add your name:)"));
+    console.log(chalk.bgBlue("Congratulation!! You are highest scorer.Send me a screenshot so that I can add your name so that I can add to highscorer list:)"));
   }
   else if (score<8 && score>=5)
   {
